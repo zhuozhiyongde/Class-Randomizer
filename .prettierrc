@@ -1,0 +1,13 @@
+{
+    "singleQuote": true,
+    "arrowParens": "always",
+    "useTabs": false,
+    "semi": true,
+    "tabWidth": 4,
+    "quoteProps": "consistent",
+    "trailingComma": "es5",
+    "vueIndentScriptAndStyle": false,
+    "plugins": ["prettier-plugin-tailwindcss"],
+    "bracketSameLine": true,
+    "htmlWhitespaceSensitivity": "ignore"
+}
